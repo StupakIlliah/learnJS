@@ -45,6 +45,8 @@ console.log(typeof (answer));
 console.log(4+ +"-object");
 */
 
+/*
+
 let incr = 10,
     decr = 10;
 
@@ -61,3 +63,7 @@ let isChecked = true,
 console.log(isChecked || isClose);
 console.log(isChecked && isClose);
 console.log(isChecked || !isClose);
+*/
+
+
+
